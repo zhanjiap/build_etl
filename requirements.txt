@@ -1,6 +1,0 @@
-# 构建所需依赖（Python 3.8）
-pandas>=1.2,<2.0
-trino>=0.327,<1.0
-PyPDF2>=2.0,<3.0
-python-docx>=0.8,<1.0
-pyinstaller>=5.0,<6.0
